@@ -1,0 +1,2 @@
+SQLAlchemy==2.0.28
+PyYAML==6.0.1
